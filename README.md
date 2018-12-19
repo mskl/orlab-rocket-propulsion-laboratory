@@ -112,6 +112,7 @@ The hybrid rocket engine might require high ignition temperature.
 ***
 ## Price prerequisites
 It is necessary to obtain the oxidizer source and a way to control it in the test environment. The testbed design is not compulsory but should not be overlooked.
+
 | material                                  | CZK       |
 |-------------------------------------------|-----------|
 | oxidizer tank + oxidizer                  |~2k max    |
