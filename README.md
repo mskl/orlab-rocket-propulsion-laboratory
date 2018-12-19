@@ -6,17 +6,17 @@ The main goal of this project is to create hybrid rocket engine with thrust vect
 ***
 ## Main challenges:
 ### Testbed design
-It is necessary to create an enviroment where we can test the rocket motors withou worrying about the personal safety. 
+It is necessary to create an environment where we can test the rocket motors without worrying about the personal safety. 
 
 #### Basic testbed design requirements
-It would be the best if the thrurster was usable in the horizontal and in the vertical orientation as well.
+It would be the best if the thruster was usable in the horizontal and in the vertical orientation as well.
 1. Thrust logging
     - Arduino + SD card slot / Ethernet connection + load cells + GoPro
 2. Safety barrier
     - Plywood structure + sand filling?
 3. Remote oxidizer control
     - The oxidizer tank has a that is far away and a reverse fire protection mechanism near the testbed to prevent reverse fire of the oxidizer.
-    - Reductution valve to maintain the pressure
+    - Reduction valve to maintain the pressure
 
 
 #### Pretest precautions
@@ -88,7 +88,7 @@ How to control the vectoring of the engine?
 
 #### Gimbal types
 1. Whole motor
-Move the whole rocket motor changer alog with the thurster.
+Move the whole rocket motor changer along with the thruster.
     - requires space in the fuselage
     - requires flexible top nozzle
     - the motor mounts need to be flexible
@@ -110,8 +110,8 @@ The hybrid rocket engine might require high ignition temperature.
 - Electronic sparkler - for remote triggering?
 
 ***
-## Price prerequisities
-It is necessary to obtain the oxidizer source and a way to control it in the test enviroment. The testbed design is not compulsory but should not be overlooked.
+## Price prerequisites
+It is necessary to obtain the oxidizer source and a way to control it in the test environment. The testbed design is not compulsory but should not be overlooked.
 | material                                  | CZK       |
 |-------------------------------------------|-----------|
 | oxidizer tank + oxidizer                  |~2k max    |
